@@ -40,10 +40,8 @@
 ---
 
 ## 📫 Let's Connect!
-🌐 **Portfolio:** [YourPortfolio.com](#)  
 💬 **LinkedIn:** [linkedin.com/in/SwapnilChakraborty](#)  
-🐦 **Twitter:** [twitter.com/YOUR_HANDLE](#)  
-✉️ **Email:** [your-email@example.com](#)  
+✉️ **Email:** [swapnilchakraborty09@gmail.com](#)  
 
 ---
 
