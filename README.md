@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Swapnil Chakraborty</h1>
 <h3 align="center">💻 Software Developer | Open Source Contributor | Tech Enthusiast 🚀</h3>
 
